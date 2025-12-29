@@ -20,6 +20,13 @@ const emojipedia = [
     meaning:
       "This is funny! A smiley face, rolling on the floor, laughing. The face is laughing boundlessly. The emoji version of “rofl“. Stands for „rolling on the floor, laughing“.",
   },
+  {
+    id: 4,
+    emoji: "😖",
+    name: "I will FU your face",
+    meaning:
+      "This is angry! An angry face, waiting to fuck you up. The emoji version of “rtfm“. Stands for „read the fucking manual“.",
+  },
 ];
 
 export default emojipedia;

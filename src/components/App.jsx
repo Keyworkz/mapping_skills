@@ -2,7 +2,7 @@ import React from "react";
 import Card from "../components/Card";
 import emojipedia from "../emojipedia";
 
-// console.log(emojipedia);
+// console.log(emojipedia[0].meaning);
 
 function createEntry(emojiObj) {
   return (
